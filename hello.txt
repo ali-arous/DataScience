@@ -4,5 +4,9 @@ I have done some changes to the file!
 
 Anothed edit is now done!
 
+<<<<<<< HEAD
 
 Modified by Edu!
+=======
+Alex modified this file.
+>>>>>>> e2053330ffb4ac387609b7d49ac0f28d1f4120a6
